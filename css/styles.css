@@ -1,0 +1,27 @@
+.warning-text {
+    color:red;
+    margin-left:80px;
+    margin-top: 20px;
+}
+
+.asterisk {
+    color:red;
+}
+
+.headings {
+    background-color: #004e8b;
+    color: #fff;
+}
+
+.intro-text {
+    margin-top: 100px;
+    display: block;
+}
+
+.form-check label {
+    font-weight: normal;
+}
+
+.headings-page3 {
+    color: #dc6800;
+}
